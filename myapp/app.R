@@ -111,11 +111,11 @@ counts<-tabItem(tabName = "counts",
                 box(
                   title = "According to our dataset, the number of firms in each year 
                   has remained almost constant.", 
-                  width = 8, status = "primary", 
+                  width = 6, status = "primary", 
                   solidHeader = TRUE,
                   tags$figure(
                     align = "center",
-                    plotOutput("plot3", height = 750, width = 850)
+                    plotOutput("plot3", height = 550, width = 650)
                   )
                 ),
                 box(
