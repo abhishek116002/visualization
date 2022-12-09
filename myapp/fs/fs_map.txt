@@ -1,0 +1,24 @@
+sa_finance1_cocode|Company code|Code
+sa_company_name|Name|Text
+sa_finance1_year|Year|Date
+sa_ann_rep_months|Months|Mths
+sa_fs_format|AR Format|Text
+sa_sales|Sales|Rs. Million ; Non-annualised
+sa_salaries|Salaries & wages|Rs. Million ; Non-annualised
+sa_indirect_taxes|Indirect taxes|Rs. Million ; Non-annualised
+sa_social_community|Social and community expenses (including CSR exp)|Rs. Million ; Non-annualised
+sa_int_exp_lt_funds|Interest on long term borrowings|Rs. Million ; Non-annualised
+sa_dep_owned_ast|Depreciation|Rs. Million ; Non-annualised
+sa_rnd_exp_cap_ac|Research & development expenses - capital account|Rs. Million
+sa_pat_pc_avg_networth|PAT as % of net worth|(%)
+sa_retained_profits|Retained profits/losses during the year|Rs. Million
+sa_total_assets|Total assets|Rs. Million
+sa_gross_fixed_assets|Gross fixed assets|Rs. Million
+sa_net_fixed_assets|Net fixed assets|Rs. Million
+sa_invest_abroad|Investment outside India|Rs. Million
+sa_inventories|Inventories|Rs. Million
+sa_receivables|Receivables|Rs. Million
+sa_cash_bank_bal|Cash and bank balance|Rs. Million
+sa_forex_earnings|Total forex earnings|Rs. Million ; Non-annualised
+sa_export_goods|Export of goods(fob)|Rs. Million ; Non-annualised
+sa_export_serv|Export of services|Rs. Million ; Non-annualised

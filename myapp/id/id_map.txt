@@ -1,0 +1,9 @@
+co_code|Prowess company code|Code
+company_name|Prowess company name|Text
+owner_code|Ownership code|Code
+owner_gp_name|Ownership|Text
+co_industry_gp_code|Industry group code|Code
+co_industry_name|Industry name|Text
+incorporation_year|Incorporation year|Year
+nse_symbol|NSE symbol|Text
+bse_scrip_id|BSE scrip id|Code
